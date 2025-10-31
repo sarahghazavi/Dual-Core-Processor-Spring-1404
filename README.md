@@ -72,7 +72,6 @@ Each core executes instructions independently, synchronizing via shared memory u
 * Learn how **concurrency and synchronization** work at the hardware level
 * Implement **custom instruction sets** and **control logic**
 * Explore **hardware-level performance improvements** through parallel execution.
-Hub Link](https://github.com/sarahghazavi/Dual-Core-Processor-Spring-2025)
 
 ---
 
