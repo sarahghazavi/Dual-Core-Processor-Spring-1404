@@ -18,14 +18,19 @@ The goal of this project was to explore the fundamentals of **hardware–softwar
 ## ⚙️ Features
 
 ✅ **Dual-Core Execution** — Two cores execute instructions concurrently.
+
 ✅ **Shared Data Memory** — Central memory accessible by both cores with concurrency control.
+
 ✅ **Custom Instruction Set** — Includes special synchronization instructions:
 
 * `cpuid` – Identifies the executing core
 * `sync` – Enforces instruction ordering
 * `exchng` – Atomic memory exchange
+
   ✅ **Spinlock Mechanism** — Prevents race conditions in shared memory access.
+  
   ✅ **Performance Evaluation** — Parallel execution tested on 8×8 matrix multiplication and summation benchmarks.
+  
   ✅ **Instruction-Level Parallelism** — Demonstrated through concurrent load/store and ALU operations.
 
 ---
