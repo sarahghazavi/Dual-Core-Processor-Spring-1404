@@ -1,6 +1,6 @@
 # Dual-Core Processor Architecture
 
-> Implemented by *Sara Ghazavi*
+> Developed by *Sara Ghazavi*
 > Sharif University of Technology – Spring 1404
 
 ---
