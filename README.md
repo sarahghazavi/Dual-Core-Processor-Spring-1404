@@ -78,5 +78,7 @@ Each core executes instructions independently, synchronizing via shared memory u
 ## 👩‍💻 Author
 
 **Sara Ghazavi**
+
 Sharif University of Technology
+
 Course: Computer Architecture – Spring 1404
